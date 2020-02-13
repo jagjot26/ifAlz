@@ -18,7 +18,7 @@
 
 # Screen Shots
 
-![pattern290x480](https://user-images.githubusercontent.com/51400182/74451549-cf237800-4ea5-11ea-832f-8888dd27c0d6.png)
+![pattern270x480](https://user-images.githubusercontent.com/51400182/74451780-23c6f300-4ea6-11ea-821d-524a7c587666.png)
 ![initial](https://user-images.githubusercontent.com/51400182/74449321-6c7cad00-4ea2-11ea-80f0-28d4f37747ed.gif)
 ![choose](https://user-images.githubusercontent.com/51400182/74448468-05122d80-4ea1-11ea-8e0d-79a9ee5e04bb.gif)
 ![simon](https://user-images.githubusercontent.com/51400182/74449862-32f87180-4ea3-11ea-9a42-557a2c09e4e6.gif)
