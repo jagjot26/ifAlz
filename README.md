@@ -2,7 +2,6 @@
 
 ### IfAlz helps people to check if they have Alzheimer's by playing some games and answering some quizzes. Users can choose to either play the games individually or, take the full test which comprises of all the games one after another, and gives you some final scores based on your results.
 
----
 
 # Games:
 
