@@ -18,7 +18,8 @@
 
 # Screen Shots
 
-![ss1](http://drive.google.com/uc?export=view&id=1EHPw15ZnNBtcsrlo_vSQn1StKwFBecAa)
+![choose](https://user-images.githubusercontent.com/51400182/74448468-05122d80-4ea1-11ea-8e0d-79a9ee5e04bb.gif)
+
 ![ss2](http://drive.google.com/uc?export=view&id=1Fr_buRxgM698cGjg9N3PjyRryJvh2ws5)
 ![ss3](http://drive.google.com/uc?export=view&id=1Fnjttf82p2rg8_cBPUB7EGUdkOmRl3q3)
 ![ss4](https://drive.google.com/open?id=1Fkj-G1p4dX-A4i2jSJcyduwT46QPqZsa)
