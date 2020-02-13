@@ -13,7 +13,7 @@
 # Technologies used:
 
 - Dart
-- Flutter(1.12.13+hotfix.7)
+- Flutter (1.12.13+hotfix.7)
 - Firebase
 
 # Screenshots and Demonstration
