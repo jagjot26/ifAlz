@@ -19,7 +19,7 @@
 # Screen Shots
 
 ![ss1](https://drive.google.com/file/d/1EHPw15ZnNBtcsrlo_vSQn1StKwFBecAa/view)
-![ss2](https://drive.google.com/uc?export=view&id=1Fr_buRxgM698cGjg9N3PjyRryJvh2ws5)
+![ss2](http://drive.google.com/uc?export=view&id=1Fr_buRxgM698cGjg9N3PjyRryJvh2ws5)
 ![ss3](https://drive.google.com/open?id=1Fnjttf82p2rg8_cBPUB7EGUdkOmRl3q3)
 ![ss4](https://drive.google.com/open?id=1Fkj-G1p4dX-A4i2jSJcyduwT46QPqZsa)
 ![ss5](https://drive.google.com/open?id=1E5tEK-_8-ujgsWoM9KbsD4hDnxKtXygc)
