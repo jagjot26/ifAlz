@@ -16,7 +16,7 @@
 - Flutter
 - Firebase
 
-# Screen Shots
+# Screenshots and Demonstration
 
 ![start270x480](https://user-images.githubusercontent.com/51400182/74451944-65579e00-4ea6-11ea-8efe-c7cf9831b2e3.png)
 ![initial](https://user-images.githubusercontent.com/51400182/74449321-6c7cad00-4ea2-11ea-80f0-28d4f37747ed.gif)
